@@ -1,0 +1,33 @@
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\Relaciones2.Form1.resources
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\Relaciones2.Resources.resources
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\bin\Debug\Relaciones2.exe
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\bin\Debug\Relaciones2.pdb
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\bin\Debug\Relaciones2.xml
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\Relaciones2.exe
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\Relaciones2.xml
+C:\Users\jorgeng\AppData\Local\Temporary Projects\Relaciones2\obj\x86\Debug\Relaciones2.pdb
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.exe
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.xml
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.pdb
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\bin\Debug\Relaciones2.exe
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\bin\Debug\Relaciones2.pdb
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\bin\Debug\Relaciones2.xml
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.Form1.resources
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.Resources.resources
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jorgeng\documents\visual studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.exe
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.xml
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.pdb
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\bin\Debug\Relaciones2.exe
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\bin\Debug\Relaciones2.pdb
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\bin\Debug\Relaciones2.xml
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.Form1.resources
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\Relaciones2.Resources.resources
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\windows2.old\Users\jorgeng\Documents\Visual Studio 2010\Projects\Relaciones2\Relaciones2\obj\x86\Debug\GenerateResource.write.1.tlog
